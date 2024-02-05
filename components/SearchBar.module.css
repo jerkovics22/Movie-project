@@ -1,0 +1,14 @@
+.search {
+  float: right;
+  padding: 10px 20px;
+  border: none;
+  margin-top: 1rem;
+  margin-right: 16px;
+  font-size: 20px;
+  border: 1px solid black;
+  border-radius: 40px;
+  width: 30vw;
+  margin-bottom: 1rem;
+  background-color: transparent;
+  color: black;
+}

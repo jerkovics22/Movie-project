@@ -1,0 +1,19 @@
+.nav {
+  display: flex;
+  justify-content: space-between;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 2rem;
+  align-items: center;
+  background-color: #facc15;
+  padding: 0.5rem 1rem;
+}
+
+.title {
+  cursor: pointer;
+}
+
+.title:hover {
+  opacity: 0.8;
+  text-decoration: underline;
+  color: white;
+}
